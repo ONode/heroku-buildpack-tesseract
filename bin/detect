@@ -1,2 +1,4 @@
-#!/bin/sh
-echo "detect"
+#!/usr/bin/env bash
+# bin/detect <build-dir>
+echo "Tesseract 3.04.01"
+exit 0
