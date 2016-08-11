@@ -1,5 +1,7 @@
 heroku-buildpack-tesseract
 ===========================
+Library version `3.04.1`
+
 Added the libraries to use Tesseract on Heroku
 
 This buildpack is built to be used through [heroku-buildpack-multi](https://github.com/ddollar/heroku-buildpack-multi).
